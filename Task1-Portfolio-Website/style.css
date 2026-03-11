@@ -1,0 +1,17 @@
+body{
+scroll-behavior:smooth;
+padding-top:70px;
+}
+
+.section{
+padding:80px 0;
+}
+
+.skill{
+background:#f4f4f4;
+margin:10px;
+padding:20px;
+text-align:center;
+border-radius:8px;
+font-weight:bold;
+}
